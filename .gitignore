@@ -7,3 +7,5 @@ test1/logs/2x256-1572019633/events.out.tfevents.1572019633.DESKTOP-469HJSC.8784.
 test1/models/2x256_____2.00max__-99.00avg_-200.00min__1572018388.model
 test1/models/2x256_____2.00max__-99.00avg_-200.00min__1572018508.model
 test1/models/2x256_____2.00max__-99.00avg_-200.00min__1572019633.model
+test4/__pycache__/maze_env.cpython-36.pyc
+test4/__pycache__/RL_brain.cpython-36.pyc
