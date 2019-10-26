@@ -1,0 +1,9 @@
+test1/abby.pickle
+test1/big.pickle
+test1/logs/2x256-1572017791/events.out.tfevents.1572017791.DESKTOP-469HJSC.6128.541.v2
+test1/logs/2x256-1572018388/events.out.tfevents.1572018388.DESKTOP-469HJSC.10192.541.v2
+test1/logs/2x256-1572018508/events.out.tfevents.1572018508.DESKTOP-469HJSC.13880.541.v2
+test1/logs/2x256-1572019633/events.out.tfevents.1572019633.DESKTOP-469HJSC.8784.541.v2
+test1/models/2x256_____2.00max__-99.00avg_-200.00min__1572018388.model
+test1/models/2x256_____2.00max__-99.00avg_-200.00min__1572018508.model
+test1/models/2x256_____2.00max__-99.00avg_-200.00min__1572019633.model
